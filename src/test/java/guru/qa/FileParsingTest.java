@@ -83,7 +83,6 @@ public class FileParsingTest {
             assertThat(jsonObject.get("title").getAsString()).isEqualTo("example glossary");
             assertThat(jsonObject.get("gloss_div").getAsJsonObject().get("title").getAsString()).isEqualTo("S");
             assertThat(jsonObject.get("gloss_div").getAsJsonObject().get("flag").getAsBoolean()).isTrue();
-
         }
     }
 
