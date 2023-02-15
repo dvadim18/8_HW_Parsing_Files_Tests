@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="747ee492-0cfe-4342-9ca9-b03135f9d4f1" name="Changes" comment="" />
+    <list default="true" id="747ee492-0cfe-4342-9ca9-b03135f9d4f1" name="Changes" comment="add parsing tests from zip-files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,12 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LnFlJR6iWgDI1sU9uua3dNUxN7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,9 +30,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/JavaLessons/QA_GURU_8_HW_File_Parsing_Tests/HW_8_File_Parsing_Tests/src/test/resources"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaLessons\QA_GURU_8_HW_File_Parsing_Tests\HW_8_File_Parsing_Tests\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guru.qa" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="FileParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -66,6 +81,25 @@
       <option name="presentableId" value="Default" />
       <updated>1676499092325</updated>
     </task>
+    <task id="LOCAL-00001" summary="add parsing tests from zip-files">
+      <created>1676499393616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676499393616</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add parsing tests from zip-files">
+      <created>1676499415283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676499415283</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add parsing tests from zip-files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add parsing tests from zip-files" />
   </component>
 </project>
